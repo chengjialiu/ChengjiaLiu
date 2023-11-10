@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ChengjiaLiu
-- 👀 I’m interested in machine learning and hardware design verification
+- 👋 Hi, I’m Chengjia (Daniel) Liu @ChengjiaLiu
+- 👀 I’m currently interested in machine learning and hardware design verification.
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
